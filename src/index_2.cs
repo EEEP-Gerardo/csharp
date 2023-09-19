@@ -1,4 +1,4 @@
-// 2° Jogo de Adivinhação
+// 2° exercício de programação orientada a objeto: Jogo de Adivinhação.
 
 using System;
 
