@@ -1,4 +1,4 @@
-// 1° exercício de programação orientada a objeto: calcular média
+// 1° exercício de programação orientada a objeto: calcular média.
 
 using System;
 
