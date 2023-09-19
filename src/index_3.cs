@@ -1,4 +1,4 @@
-// Exercício 4°: seguindo o padrão de resolução: Lista de Tarefas 
+// 3° exercício de programação orientada a objeto: Lista de Tarefas 
 
 using System;
 using System.Collections.Generic;
